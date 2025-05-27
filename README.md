@@ -1,9 +1,9 @@
 ## Olá! Eu sou o Miguel Amoedo 🖐️
 
 <h23>
-<b>Full Stack JavaScript Developer<b>
+<b>Full Stack Developer<b>
 
-<b>O JavaScript é uma tecnologia que me propocionou desenvolver projetos Web, Desktop e Mobile, sigo estudando e aprendendo cada dia mais , com um sonho de um dia se tornar um desenvolvedor contratado.</b>
+<b> C#, PHP e JavaScript/TypeScript são tecnologias que me propocionaram desenvolverem projetos Web, Desktop e Mobile, sigo estudando e aprendendo cada dia mais , parea cada dia se tornar um desenvolvedor cada dia melhor.</b>
   </h3>
 
 [![Likendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-amoedo-08a184217/)
